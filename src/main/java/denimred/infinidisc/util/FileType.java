@@ -12,8 +12,8 @@ import java.util.Map;
 import java.util.Objects;
 
 public class FileType {
-    public static final FileType OGG = new FileType("ogg", "audio/ogg", "*.ogg", MonoOggAudioStream::new);
     private static final Map<String, FileType> MIME_MAP = new HashMap<>();
+    public static final FileType OGG = new FileType("ogg", "audio/ogg", "*.ogg", MonoOggAudioStream::new);
     public final String name;
     public final String mime;
     public final String filter;
