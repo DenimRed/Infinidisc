@@ -1,4 +1,6 @@
 # Infinidisc
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.4-77B946?labelColor=3B3A3D)](https://www.minecraft.net/) [![Forge Version](https://img.shields.io/badge/Forge-35.1.28-DFA86A?labelColor=26303D&)](https://files.minecraftforge.net/)
+
 A client-side mod that allows users to play any audio file they desire. Currently only supports .ogg files, but audio is downmixed to mono on the fly to guarantee basic compatibility.
 
 To start, simply rename any music disc to "Infinidisc". Using this disc on a jukebox will open a file-select window where you can then select an audio file to play.
