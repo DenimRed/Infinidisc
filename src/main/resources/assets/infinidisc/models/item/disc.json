@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "infinidisc:item/disc/disc",
+    "layer1": "infinidisc:item/disc/disc_ring_under",
+    "layer2": "infinidisc:item/disc/disc_center",
+    "layer3": "infinidisc:item/disc/disc_ring_over"
+  }
+}

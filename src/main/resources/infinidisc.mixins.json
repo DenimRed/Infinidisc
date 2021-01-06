@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "denimred.infinidisc.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "infinidisc.refmap.json",
+  "mixins": [
+  ],
+  "client":[
+    "WorldRendererMixin",
+    "SoundEngineMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

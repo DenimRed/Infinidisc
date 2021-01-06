@@ -1,0 +1,9 @@
+{
+  "infinidisc.now_playing": "Infinidisc Song #%s",
+  "infinidisc.disc": "Infinidisc",
+  "infinidisc.disc.song": "Infinidisc (Song)",
+  "infinidisc.disc.song.hash": "Song #%s",
+  "infinidisc.file_not_found": "File not found!",
+  "infinidisc.anvil_overlay.button": "Song Library",
+  "infinidisc.anvil_overlay.button.tooltip": "Choose a song to configure this disc to play"
+}
